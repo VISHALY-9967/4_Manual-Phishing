@@ -7,12 +7,12 @@
 ## 🛑 What is Phishing?
 
 **Phishing** is a cyber attack technique where an attacker impersonates a trusted entity (like a bank or e-commerce site) to trick users into revealing sensitive information such as:
-
+<pre>
 - Emails
 - Passwords
 - Credit card details
 - Personal data
-
+</pre>
 ---
 
 ## 📄 Project Overview
@@ -29,7 +29,7 @@ This is a **manual phishing simulation** project built with:
 ---
 
 ## 📁 Project Structure
-
+<pre>
 4_Manual-Phishing/
 ├── public/
 │ └── index.html # Fake Flipkart login page
@@ -37,7 +37,7 @@ This is a **manual phishing simulation** project built with:
 ├── credentials.txt # Saved credentials
 └── README.md # This file
 
-
+</pre>
 ---
 
 ## 🛠️ How to Run This Project
