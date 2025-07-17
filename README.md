@@ -50,24 +50,28 @@ This is a **manual phishing simulation** project built with:
   npm -v
 
 2. 📦 Install Required Modules
+<pre>
 Open your terminal and run:
 npm init -y
 npm install express body-parser
-
-3. 📂 Place the HTML File
+</pre>
+4. 📂 Place the HTML File
+<pre>
 Make sure the index.html file is inside a folder named public/
 /public/index.html
-
-4. 🚀 Start the Server
+</pre>
+6. 🚀 Start the Server
+<PRE>
 node server.js
 Terminal should show:
 Server running on http://localhost:3000
-
-5. 🔒 Captured Credentials
+</PRE>
+7. 🔒 Captured Credentials
+<pre>
 When a user enters email and password on the fake login page, it gets saved to:
 credentials.txt
 Sample entry:
 Email: someone@example.com, Password: 123456
-
+</pre>
 Stay Ethical. Stay Informed.
 Use this project only in secure lab environments or to spread awareness about phishing tactics.
